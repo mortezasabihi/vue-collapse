@@ -15,6 +15,11 @@
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur sit laborum et nisi recusandae voluptas cumque itaque laboriosam inventore rerum quae nihil, odio culpa eum nemo dicta, debitis ipsum ipsam.</p>
       </div>
     </collapse>
+
+    <footer>
+      <a class="github-button" href="https://github.com/mortezasabihi/vue-collapse" data-size="large" aria-label="Star mortezasabihi/vue-collapse on GitHub">Star</a>
+    </footer>
+
   </div>
 </template>
 
@@ -53,5 +58,10 @@ h1 span {
 
 .my-content {
   padding: 20px;
+}
+
+footer {
+  text-align: center;
+  margin-top: 15rem;
 }
 </style>
